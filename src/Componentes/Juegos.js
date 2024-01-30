@@ -247,7 +247,7 @@ const MathExercise = () => {
       fontSize: "1.5em",
     },
     resumenContainer: {
-      marginTop: "20px",
+      marginTop: "21px",
       textAlign: "center",
     },
     resumenContent: {
